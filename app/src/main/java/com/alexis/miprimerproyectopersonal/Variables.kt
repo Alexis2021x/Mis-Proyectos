@@ -15,7 +15,7 @@ package com.alexis.miprimerproyectopersonal
      //Long
      val edadgrande: Long = 30
      val EdadDecimal: Float = 30.6f
-     var EdadDoble: Double = 4.7
+     var EdadDoble: Double = 4.8
 
      //
      val variable2:Char = 'd'
